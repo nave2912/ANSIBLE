@@ -1,0 +1,1 @@
+ansible-playbook create-rsg.yaml --extra-vars "name=ansiblersg location=westus"
